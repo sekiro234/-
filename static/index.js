@@ -345,7 +345,7 @@ function shareText(score) {
     if (score <= 39) return '抗日新手';
     if (score <= 59) return '天皇杀手蟹';
     if (score <= 99) return '手撕鬼子，抗日英雄';	
-    if (score <= 149) return '屠天皇者，终成天皇';
+    if (score <= 149) return '东京弑君鬼';
     if (score <= 199) return '您';
     return '人？';
 }
